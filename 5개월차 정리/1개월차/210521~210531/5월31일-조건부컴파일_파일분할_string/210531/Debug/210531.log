@@ -1,0 +1,15 @@
+﻿  210531.cpp
+TextRPG.obj : error LNK2005: "int __cdecl Combat(struct tagInfo *,struct tagInfo *)" (?Combat@@YAHPAUtagInfo@@0@Z)이(가) 210531.obj에 이미 정의되어 있습니다.
+TextRPG.obj : error LNK2005: "void __cdecl Combat_Lose(struct tagInfo *)" (?Combat_Lose@@YAXPAUtagInfo@@@Z)이(가) 210531.obj에 이미 정의되어 있습니다.
+TextRPG.obj : error LNK2005: "void __cdecl Combat_Run(struct tagInfo *)" (?Combat_Run@@YAXPAUtagInfo@@@Z)이(가) 210531.obj에 이미 정의되어 있습니다.
+TextRPG.obj : error LNK2005: "void __cdecl Combat_Win(struct tagInfo *,int,int)" (?Combat_Win@@YAXPAUtagInfo@@HH@Z)이(가) 210531.obj에 이미 정의되어 있습니다.
+TextRPG.obj : error LNK2005: "struct tagInfo * __cdecl Create_Object(char *,int,int,int,bool)" (?Create_Object@@YAPAUtagInfo@@PADHHH_N@Z)이(가) 210531.obj에 이미 정의되어 있습니다.
+TextRPG.obj : error LNK2005: "void __cdecl Create_Object(struct tagInfo * *,char *,int,int)" (?Create_Object@@YAXPAPAUtagInfo@@PADHH@Z)이(가) 210531.obj에 이미 정의되어 있습니다.
+TextRPG.obj : error LNK2005: "struct tagInfo * __cdecl Load_Data(void)" (?Load_Data@@YAPAUtagInfo@@XZ)이(가) 210531.obj에 이미 정의되어 있습니다.
+TextRPG.obj : error LNK2005: "void __cdecl Progress(struct tagInfo *)" (?Progress@@YAXPAUtagInfo@@@Z)이(가) 210531.obj에 이미 정의되어 있습니다.
+TextRPG.obj : error LNK2005: "void __cdecl Render(struct tagInfo *)" (?Render@@YAXPAUtagInfo@@@Z)이(가) 210531.obj에 이미 정의되어 있습니다.
+TextRPG.obj : error LNK2005: "void __cdecl Save_Data(struct tagInfo *)" (?Save_Data@@YAXPAUtagInfo@@@Z)이(가) 210531.obj에 이미 정의되어 있습니다.
+TextRPG.obj : error LNK2005: "struct tagInfo * __cdecl Select_Player(void)" (?Select_Player@@YAPAUtagInfo@@XZ)이(가) 210531.obj에 이미 정의되어 있습니다.
+TextRPG.obj : error LNK2005: "void __cdecl Select_Player(struct tagInfo * *)" (?Select_Player@@YAXPAPAUtagInfo@@@Z)이(가) 210531.obj에 이미 정의되어 있습니다.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: _main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\wjdgh\OneDrive\바탕 화면\쥬신\210531_조건부컴파일_파일분할_string_디버깅 (1)\Debug\210531.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

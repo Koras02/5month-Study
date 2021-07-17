@@ -1,0 +1,5 @@
+﻿  210504_4.cpp
+c:\users\wjdgh\onedrive\바탕 화면\5개월차 정리\1개월차\210427~210520\5월 4일 - while_dowhile_난수_system\210504\210504\210504_4.cpp(46): warning C4145: '==': 관계식을 switch 식으로 사용했습니다. '='과(와) 혼동할 수 있습니다.
+c:\users\wjdgh\onedrive\바탕 화면\5개월차 정리\1개월차\210427~210520\5월 4일 - while_dowhile_난수_system\210504\210504\210504_4.cpp(48): warning C4060: switch문에 'case' 또는 'default' 레이블이 없습니다.
+  210504.vcxproj -> C:\Users\wjdgh\OneDrive\바탕 화면\5개월차 정리\1개월차\210427~210520\5월 4일 - While_dowhile_난수_system\210504\Debug\210504.exe
+  210504.vcxproj -> C:\Users\wjdgh\OneDrive\바탕 화면\5개월차 정리\1개월차\210427~210520\5월 4일 - While_dowhile_난수_system\210504\Debug\210504.pdb (Full PDB)
