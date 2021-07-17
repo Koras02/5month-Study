@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Girl.cpp
+  Boy.cpp
+  210608_3.cpp
+c:\users\woo\desktop\210608\210608\210608_3.cpp(112): error C2385: 'Swing' 액세스가 모호합니다.
+  c:\users\woo\desktop\210608\210608\210608_3.cpp(112): note: 기본 'CSword'의 'Swing'일 수 있습니다.
+  c:\users\woo\desktop\210608\210608\210608_3.cpp(112): note: 또는 기본 'CAxe'의 'Swing'일 수 있습니다.
+  코드를 생성하고 있습니다...

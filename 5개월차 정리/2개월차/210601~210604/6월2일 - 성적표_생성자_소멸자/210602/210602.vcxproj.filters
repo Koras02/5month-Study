@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\HomeWork">
+      <UniqueIdentifier>{bf6e57da-3796-4923-b72b-63878c5173c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\HomeWork\00.MainProg">
+      <UniqueIdentifier>{42ec5ee1-26d2-4848-aeaa-d15926162c90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\HomeWork\01.MainGrade">
+      <UniqueIdentifier>{1c627158-8ae9-4b6e-92bb-cbcaf9ca2c59}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainProg.h">
+      <Filter>소스 파일\HomeWork\00.MainProg</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGrade.h">
+      <Filter>소스 파일\HomeWork\01.MainGrade</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct.h">
+      <Filter>소스 파일\HomeWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>소스 파일\HomeWork</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="210602.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainProg.cpp">
+      <Filter>소스 파일\HomeWork\00.MainProg</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGrade.cpp">
+      <Filter>소스 파일\HomeWork\01.MainGrade</Filter>
+    </ClCompile>
+    <ClCompile Include="210602_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="210602_3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
